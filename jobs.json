@@ -1,0 +1,158 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Junior Vue.js Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a motivated Junior Vue.js Developer to join our team. You will work closely with senior developers to learn best practices and assist in building user interfaces with Vue 3, Tailwind CSS, and Vite. This is an excellent opportunity to gain hands-on experience in a collaborative and supportive environment.",
+      "location": "Paris, France",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "TechNova",
+        "description": "A growing startup specializing in SaaS web applications.",
+        "contactEmail": "hr@technova.com",
+        "contactPhone": "+33 1 45 67 89 10"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Mid-Level Vue.js Engineer",
+      "type": "Full-Time",
+      "description": "As a Mid-Level Vue.js Engineer, you will develop and maintain dynamic dashboards and web applications using Vue 3, Pinia, and REST APIs. You will collaborate with backend engineers to ensure seamless integration of data services while working with designers to implement responsive and user-friendly interfaces. Prior experience with Vue ecosystem tools is required.",
+      "location": "Berlin, Germany",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "WebWorks",
+        "description": "A digital agency focused on modern JavaScript frameworks.",
+        "contactEmail": "jobs@webworks.de",
+        "contactPhone": "+49 30 987 654"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Vue.js Frontend Developer",
+      "type": "Remote",
+      "description": "Join our team as a Vue.js Frontend Developer and contribute to building e-commerce components with Vue, Nuxt, and GraphQL. You will be responsible for implementing reusable UI elements, optimizing performance, and ensuring accessibility standards are met. This contract role is ideal for developers who thrive in fast-paced environments and enjoy solving challenging problems.",
+      "location": "Remote",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "EcomFlow",
+        "description": "E-commerce platform scaling across multiple regions.",
+        "contactEmail": "careers@ecomflow.com",
+        "contactPhone": "+1 555 123 9876"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Vue.js UI Developer",
+      "type": "Internship",
+      "description": "This internship offers the opportunity to collaborate with our design team to transform wireframes and mockups into interactive interfaces using Vue 3. You will learn how to write clean, maintainable code and gain exposure to industry best practices. This is a great position for students or recent graduates looking to start their careers in frontend development.",
+      "location": "Toronto, Canada",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Designify",
+        "description": "Creative design studio building interactive websites.",
+        "contactEmail": "interns@designify.ca",
+        "contactPhone": "+1 416 555 2233"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Nuxt.js Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a Nuxt.js Developer to build SEO-optimized websites and applications. Your role will involve creating server-rendered Vue applications, integrating APIs, and ensuring high performance across devices. Familiarity with SSR, SSG, and Vue 3 composition API is a must. This role provides the chance to work on exciting, high-visibility projects with global clients.",
+      "location": "London, UK",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NextWave",
+        "description": "Web consultancy specializing in performance-focused apps.",
+        "contactEmail": "careers@nextwave.co.uk",
+        "contactPhone": "+44 20 7946 0555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Senior Vue.js Engineer ",
+      "type": "Full-Time",
+      "description": "As a Senior Vue.js Engineer, you will lead a frontend team responsible for building scalable SaaS dashboards. You will design complex state management patterns, mentor junior developers, and implement advanced data visualizations using Vue 3 and D3.js. Strong leadership skills, deep knowledge of Vue ecosystem, and experience with testing frameworks are essential for this role.",
+      "location": "San Francisco, USA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Cloudify",
+        "description": "Cloud-based analytics company with global clients.",
+        "contactEmail": "jobs@cloudify.io",
+        "contactPhone": "+1 415 789 3344"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Vue.js + TypeScript Developer",
+      "type": "Full-Time",
+      "description": "In this role, you will develop enterprise-grade applications using Vue 3 with TypeScript. Responsibilities include designing maintainable components, integrating RESTful APIs, and ensuring type safety throughout the codebase. You will work with agile teams to deliver high-quality features on time. Strong TypeScript skills and familiarity with testing tools such as Jest are required.",
+      "location": "Amsterdam, Netherlands",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "DataCore",
+        "description": "Enterprise software solutions company.",
+        "contactEmail": "hr@datacore.nl",
+        "contactPhone": "+31 20 665 7788"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Vue.js Freelancer",
+      "type": "Remote",
+      "description": "We are looking for a skilled Vue.js Freelancer to collaborate on various short-term projects, including landing pages, dashboards, and interactive forms. You should be comfortable working independently, managing your time, and communicating with clients. This role is ideal for freelancers who enjoy flexible work arrangements and have experience delivering high-quality results within tight deadlines.",
+      "location": "Remote",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "FreelanceHub",
+        "description": "Marketplace for freelance web developers.",
+        "contactEmail": "support@freelancehub.com",
+        "contactPhone": "+1 800 321 7788"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Vue.js Mobile Developer",
+      "type": "Full-Time",
+      "description": "As a Vue.js Mobile Developer, you will build hybrid mobile applications using Vue 3 and Ionic. You will be responsible for creating performant, responsive, and secure mobile experiences. Working closely with backend developers, you will ensure smooth API integration. Prior experience with mobile-first design and app deployment to iOS and Android stores is preferred.",
+      "location": "Madrid, Spain",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "AppSphere",
+        "description": "Mobile-first development company.",
+        "contactEmail": "jobs@appsphere.es",
+        "contactPhone": "+34 91 456 7890"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Vue.js + Node.js Developer",
+      "type": "Full-Time",
+      "description": "We are hiring a Vue.js + Node.js Developer to work on full-stack applications. You will design and implement reusable Vue components on the frontend while developing REST APIs with Node.js and Express on the backend. This role requires strong problem-solving skills, a good understanding of databases, and the ability to deliver production-ready code on schedule.",
+      "location": "Lisbon, Portugal",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "CodeBridge",
+        "description": "Full-stack development company focused on modern JS frameworks.",
+        "contactEmail": "careers@codebridge.pt",
+        "contactPhone": "+351 21 123 4567"
+      }
+    },
+    {
+      "id": "6963",
+      "type": "Full-Time",
+      "title": "bbbbbbbbbbbbbbb",
+      "description": "bbbbbbbbbbbbbbbbbbbbbbb",
+      "salary": "$150K - $175K",
+      "location": "Paris, France",
+      "company": {
+        "name": "ggggggggggggggggg",
+        "description": "gggggggggggggggggggggggggggggggg",
+        "contactEmail": "chogueuramine@gmail.com",
+        "contactPhone": "0673690100"
+      }
+    }
+  ]
+}
