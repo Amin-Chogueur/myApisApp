@@ -1,6 +1,9 @@
 // middleware.ts
 import { NextResponse } from "next/server";
 
+// http://localhost:5173
+//https://vue-hire-hub.vercel.app
+
 export function middleware() {
   const res = NextResponse.next();
   res.headers.set(

@@ -7,7 +7,10 @@ export async function POST(req: NextRequest) {
     const job = await req.json();
     const createdJob = await Job.create(job);
     if (createdJob) {
-      return NextResponse.json({ message: "new job created successfully" });
+      return NextResponse.json({
+        createdJob,
+        message: "Server Responce: new job created successfully",
+      });
     } else {
       NextResponse.json({ message: "error creating job", status: 404 });
     }

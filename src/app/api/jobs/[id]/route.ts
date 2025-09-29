@@ -28,7 +28,10 @@ export async function PATCH(
     const updatedJob = await req.json();
     const job = await Job.findByIdAndUpdate(id, updatedJob);
     if (job) {
-      return NextResponse.json({ message: "job edited successfully" });
+      return NextResponse.json({
+        job,
+        message: "Server Responce: job edited successfully",
+      });
     }
   } catch (error) {
     console.log(error);
@@ -45,7 +48,10 @@ export async function DELETE(
     await connectToDB();
     const job = await Job.findByIdAndDelete(id);
     if (job) {
-      return NextResponse.json({ message: "job deleted successfully" });
+      return NextResponse.json({
+        job,
+        message: "Server Responce: job deleted successfully ",
+      });
     }
   } catch (error) {
     console.log(error);
