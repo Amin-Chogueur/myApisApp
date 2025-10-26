@@ -12,8 +12,14 @@ export const products = [
     shape: "Aviateur",
     polarized: false,
     colors: [
-      { name: "gray", image: "/images/vue/la1.webp" },
-      { name: "black", image: "/images/vue/la2.webp" },
+      {
+        name: "gray",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/la1.webp",
+      },
+      {
+        name: "black",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/la2.webp",
+      },
     ],
     category: "Homme",
     familly: "Lunettes de vue",
@@ -32,8 +38,14 @@ export const products = [
     shape: "Carrée",
     polarized: false,
     colors: [
-      { name: "black", image: "/images/vue/lb1.webp" },
-      { name: "gray", image: "/images/vue/lb2.webp" },
+      {
+        name: "black",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/lb1.webp",
+      },
+      {
+        name: "gray",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/lb2.webp",
+      },
     ],
     category: "Homme",
     familly: "Lunettes de vue",
@@ -52,10 +64,22 @@ export const products = [
     shape: "Hexagonale",
     polarized: true,
     colors: [
-      { name: "gold", image: "/images/vue/lc1.webp" },
-      { name: "gray", image: "/images/vue/lc2.webp" },
-      { name: "pink", image: "/images/vue/lc3.webp" },
-      { name: "deeppink", image: "/images/vue/lc4.webp" },
+      {
+        name: "gold",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/lc1.webp",
+      },
+      {
+        name: "gray",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/lc2.webp",
+      },
+      {
+        name: "pink",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/lc3.webp",
+      },
+      {
+        name: "deeppink",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/lc4.webp",
+      },
     ],
     category: "Homme",
     familly: "Lunettes de vue",
@@ -74,10 +98,22 @@ export const products = [
     shape: "Ronde",
     polarized: false,
     colors: [
-      { name: "white", image: "/images/vue/ld1.webp" },
-      { name: "black", image: "/images/vue/ld2.webp" },
-      { name: "gray", image: "/images/vue/ld3.webp" },
-      { name: "red", image: "/images/vue/ld4.webp" },
+      {
+        name: "white",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/ld1.webp",
+      },
+      {
+        name: "black",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/ld2.webp",
+      },
+      {
+        name: "gray",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/ld3.webp",
+      },
+      {
+        name: "red",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/ld4.webp",
+      },
     ],
     category: "Femme",
     familly: "Lunettes de vue",
@@ -95,7 +131,12 @@ export const products = [
     fit: "Moyen",
     shape: "Papillon",
     polarized: false,
-    colors: [{ name: "black", image: "/images/vue/le.webp" }],
+    colors: [
+      {
+        name: "black",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/le.webp",
+      },
+    ],
     category: "Femme",
     familly: "Lunettes de vue",
     isNew: false,
@@ -113,8 +154,14 @@ export const products = [
     shape: "Ovale",
     polarized: true,
     colors: [
-      { name: "purple", image: "/images/vue/lf1.webp" },
-      { name: "gray", image: "/images/vue/lf2.webp" },
+      {
+        name: "purple",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/lf1.webp",
+      },
+      {
+        name: "gray",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/lf2.webp",
+      },
     ],
     category: "Femme",
     familly: "Lunettes de vue",
@@ -132,7 +179,12 @@ export const products = [
     fit: "Moyen",
     shape: "Wayfarer",
     polarized: false,
-    colors: [{ name: "purple", image: "/images/vue/lg.webp" }],
+    colors: [
+      {
+        name: "purple",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/lg.webp",
+      },
+    ],
     category: "Femme",
     familly: "Lunettes de vue",
     isNew: false,
@@ -149,7 +201,12 @@ export const products = [
     fit: "Enfant",
     shape: "Rectangulaire",
     polarized: false,
-    colors: [{ name: "green", image: "/images/vue/lh.webp" }],
+    colors: [
+      {
+        name: "green",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/lh.webp",
+      },
+    ],
     category: "Enfant",
     familly: "Lunettes de vue",
     isNew: false,
@@ -167,8 +224,14 @@ export const products = [
     shape: "Ronde",
     polarized: false,
     colors: [
-      { name: "purple", image: "/images/vue/li1.webp" },
-      { name: "gray", image: "/images/vue/li2.webp" },
+      {
+        name: "purple",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/li1.webp",
+      },
+      {
+        name: "gray",
+        image: "https://myvue-glasses-app.vercel.app/images/vue/li2.webp",
+      },
     ],
     category: "Enfant",
     familly: "Lunettes de vue",
@@ -187,8 +250,14 @@ export const products = [
     shape: "Carrée",
     polarized: true,
     colors: [
-      { name: "black", image: "/images/sun/lsa1.webp" },
-      { name: "gray", image: "/images/sun/lsa2.webp" },
+      {
+        name: "black",
+        image: "https://myvue-glasses-app.vercel.app/images/sun/lsa1.webp",
+      },
+      {
+        name: "gray",
+        image: "https://myvue-glasses-app.vercel.app/images/sun/lsa2.webp",
+      },
     ],
     category: "Homme",
     familly: "Lunettes de soleil",
@@ -207,10 +276,22 @@ export const products = [
     shape: "Pilote",
     polarized: true,
     colors: [
-      { name: "gray", image: "/images/sun/lsb1.webp" },
-      { name: "brown", image: "/images/sun/lsb2.webp" },
-      { name: "black", image: "/images/sun/lsb3.webp" },
-      { name: "blue", image: "/images/sun/lsb4.webp" },
+      {
+        name: "gray",
+        image: "https://myvue-glasses-app.vercel.app/images/sun/lsb1.webp",
+      },
+      {
+        name: "brown",
+        image: "https://myvue-glasses-app.vercel.app/images/sun/lsb2.webp",
+      },
+      {
+        name: "black",
+        image: "https://myvue-glasses-app.vercel.app/images/sun/lsb3.webp",
+      },
+      {
+        name: "blue",
+        image: "https://myvue-glasses-app.vercel.app/images/sun/lsb4.webp",
+      },
     ],
     category: "Homme",
     familly: "Lunettes de soleil",
@@ -229,8 +310,14 @@ export const products = [
     shape: "Aviateur",
     polarized: true,
     colors: [
-      { name: "yellow", image: "/images/sun/lsc1.webp" },
-      { name: "brown", image: "/images/sun/lsc2.webp" },
+      {
+        name: "yellow",
+        image: "https://myvue-glasses-app.vercel.app/images/sun/lsc1.webp",
+      },
+      {
+        name: "brown",
+        image: "https://myvue-glasses-app.vercel.app/images/sun/lsc2.webp",
+      },
     ],
     category: "Homme",
     familly: "Lunettes de soleil",
@@ -249,8 +336,14 @@ export const products = [
     shape: "Œil-de-chat",
     polarized: false,
     colors: [
-      { name: "red", image: "/images/sun/lse1.webp" },
-      { name: "gray", image: "/images/sun/lse2.webp" },
+      {
+        name: "red",
+        image: "https://myvue-glasses-app.vercel.app/images/sun/lse1.webp",
+      },
+      {
+        name: "gray",
+        image: "https://myvue-glasses-app.vercel.app/images/sun/lse2.webp",
+      },
     ],
     category: "Femme",
     familly: "Lunettes de soleil",
@@ -268,7 +361,12 @@ export const products = [
     fit: "Enfant",
     shape: "Ovale",
     polarized: true,
-    colors: [{ name: "skyblue", image: "/images/sun/lsf.webp" }],
+    colors: [
+      {
+        name: "skyblue",
+        image: "https://myvue-glasses-app.vercel.app/images/sun/lsf.webp",
+      },
+    ],
     category: "Enfant",
     familly: "Lunettes de soleil",
     isNew: true,
@@ -286,8 +384,14 @@ export const products = [
     shape: "Papillon",
     polarized: true,
     colors: [
-      { name: "black", image: "/images/sun/lsg1.webp" },
-      { name: "brown", image: "/images/sun/lsg2.webp" },
+      {
+        name: "black",
+        image: "https://myvue-glasses-app.vercel.app/images/sun/lsg1.webp",
+      },
+      {
+        name: "brown",
+        image: "https://myvue-glasses-app.vercel.app/images/sun/lsg2.webp",
+      },
     ],
     category: "Femme",
     familly: "Lunettes de soleil",
