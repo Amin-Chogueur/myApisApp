@@ -1,15 +1,25 @@
 // middleware.ts
 import { NextResponse } from "next/server";
-
+import type { NextRequest } from "next/server";
 // http://localhost:5173
 //https://vue-hire-hub.vercel.app
+//https://myvue-phone-app.vercel.app
+export function middleware(req: NextRequest) {
+  const origin = req.headers.get("origin");
 
-export function middleware() {
+  // Define allowed origins
+  const allowedOrigins = [
+    "https://vue-hire-hub.vercel.app",
+    "https://myvue-phone-app.vercel.app",
+  ];
+
   const res = NextResponse.next();
-  res.headers.set(
-    "Access-Control-Allow-Origin",
-    "https://vue-hire-hub.vercel.app"
-  );
+
+  // Check if the request origin is allowed
+  if (origin && allowedOrigins.includes(origin)) {
+    res.headers.set("Access-Control-Allow-Origin", origin);
+  }
+
   res.headers.set(
     "Access-Control-Allow-Methods",
     "GET,POST,PATCH,DELETE,OPTIONS"
@@ -22,6 +32,7 @@ export function middleware() {
   return res;
 }
 
+// Optional: limit where this middleware runs
 export const config = {
-  matcher: ["/api/:path*"], // Apply only to API routes
+  matcher: ["/api/:path*"],
 };
