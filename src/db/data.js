@@ -14,11 +14,11 @@ export const products = [
     colors: [
       {
         name: "gray",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/la1.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/la1.webp",
       },
       {
         name: "black",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/la2.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/la2.webp",
       },
     ],
     category: "Homme",
@@ -40,11 +40,11 @@ export const products = [
     colors: [
       {
         name: "black",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/lb1.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/lb1.webp",
       },
       {
         name: "gray",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/lb2.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/lb2.webp",
       },
     ],
     category: "Homme",
@@ -66,19 +66,19 @@ export const products = [
     colors: [
       {
         name: "gold",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/lc1.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/lc1.webp",
       },
       {
         name: "gray",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/lc2.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/lc2.webp",
       },
       {
         name: "pink",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/lc3.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/lc3.webp",
       },
       {
         name: "deeppink",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/lc4.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/lc4.webp",
       },
     ],
     category: "Homme",
@@ -100,19 +100,19 @@ export const products = [
     colors: [
       {
         name: "white",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/ld1.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/ld1.webp",
       },
       {
         name: "black",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/ld2.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/ld2.webp",
       },
       {
         name: "gray",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/ld3.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/ld3.webp",
       },
       {
         name: "red",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/ld4.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/ld4.webp",
       },
     ],
     category: "Femme",
@@ -134,7 +134,7 @@ export const products = [
     colors: [
       {
         name: "black",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/le.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/le.webp",
       },
     ],
     category: "Femme",
@@ -156,11 +156,11 @@ export const products = [
     colors: [
       {
         name: "purple",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/lf1.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/lf1.webp",
       },
       {
         name: "gray",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/lf2.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/lf2.webp",
       },
     ],
     category: "Femme",
@@ -182,7 +182,7 @@ export const products = [
     colors: [
       {
         name: "purple",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/lg.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/lg.webp",
       },
     ],
     category: "Femme",
@@ -204,7 +204,7 @@ export const products = [
     colors: [
       {
         name: "green",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/lh.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/lh.webp",
       },
     ],
     category: "Enfant",
@@ -226,11 +226,11 @@ export const products = [
     colors: [
       {
         name: "purple",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/li1.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/li1.webp",
       },
       {
         name: "gray",
-        image: "https://myvue-glasses-app.vercel.app/images/vue/li2.webp",
+        image: "https://my-apis-app.vercel.app/images/vue/li2.webp",
       },
     ],
     category: "Enfant",
@@ -252,11 +252,11 @@ export const products = [
     colors: [
       {
         name: "black",
-        image: "https://myvue-glasses-app.vercel.app/images/sun/lsa1.webp",
+        image: "https://my-apis-app.vercel.app/images/sun/lsa1.webp",
       },
       {
         name: "gray",
-        image: "https://myvue-glasses-app.vercel.app/images/sun/lsa2.webp",
+        image: "https://my-apis-app.vercel.app/images/sun/lsa2.webp",
       },
     ],
     category: "Homme",
@@ -278,19 +278,19 @@ export const products = [
     colors: [
       {
         name: "gray",
-        image: "https://myvue-glasses-app.vercel.app/images/sun/lsb1.webp",
+        image: "https://my-apis-app.vercel.app/images/sun/lsb1.webp",
       },
       {
         name: "brown",
-        image: "https://myvue-glasses-app.vercel.app/images/sun/lsb2.webp",
+        image: "https://my-apis-app.vercel.app/images/sun/lsb2.webp",
       },
       {
         name: "black",
-        image: "https://myvue-glasses-app.vercel.app/images/sun/lsb3.webp",
+        image: "https://my-apis-app.vercel.app/images/sun/lsb3.webp",
       },
       {
         name: "blue",
-        image: "https://myvue-glasses-app.vercel.app/images/sun/lsb4.webp",
+        image: "https://my-apis-app.vercel.app/images/sun/lsb4.webp",
       },
     ],
     category: "Homme",
@@ -312,11 +312,11 @@ export const products = [
     colors: [
       {
         name: "yellow",
-        image: "https://myvue-glasses-app.vercel.app/images/sun/lsc1.webp",
+        image: "https://my-apis-app.vercel.app/images/sun/lsc1.webp",
       },
       {
         name: "brown",
-        image: "https://myvue-glasses-app.vercel.app/images/sun/lsc2.webp",
+        image: "https://my-apis-app.vercel.app/images/sun/lsc2.webp",
       },
     ],
     category: "Homme",
@@ -338,11 +338,11 @@ export const products = [
     colors: [
       {
         name: "red",
-        image: "https://myvue-glasses-app.vercel.app/images/sun/lse1.webp",
+        image: "https://my-apis-app.vercel.app/images/sun/lse1.webp",
       },
       {
         name: "gray",
-        image: "https://myvue-glasses-app.vercel.app/images/sun/lse2.webp",
+        image: "https://my-apis-app.vercel.app/images/sun/lse2.webp",
       },
     ],
     category: "Femme",
@@ -364,7 +364,7 @@ export const products = [
     colors: [
       {
         name: "skyblue",
-        image: "https://myvue-glasses-app.vercel.app/images/sun/lsf.webp",
+        image: "https://my-apis-app.vercel.app/images/sun/lsf.webp",
       },
     ],
     category: "Enfant",
@@ -386,11 +386,11 @@ export const products = [
     colors: [
       {
         name: "black",
-        image: "https://myvue-glasses-app.vercel.app/images/sun/lsg1.webp",
+        image: "https://my-apis-app.vercel.app/images/sun/lsg1.webp",
       },
       {
         name: "brown",
-        image: "https://myvue-glasses-app.vercel.app/images/sun/lsg2.webp",
+        image: "https://my-apis-app.vercel.app/images/sun/lsg2.webp",
       },
     ],
     category: "Femme",
