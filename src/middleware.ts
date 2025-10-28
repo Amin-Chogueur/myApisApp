@@ -3,14 +3,14 @@ import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
 // http://localhost:5173
 //https://vue-hire-hub.vercel.app
-//https://myvue-glasses-app.vercel.app
+//https://malik-optics-app.vercel.app
 export function middleware(req: NextRequest) {
   const origin = req.headers.get("origin");
 
   // Define allowed origins
   const allowedOrigins = [
     "https://vue-hire-hub.vercel.app",
-    "https://myvue-glasses-app.vercel.app",
+    "https://malik-optics-app.vercel.app",
   ];
 
   const res = NextResponse.next();
